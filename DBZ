@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>DBZ My Era</header>
+    <main>
+     welcome to trhe world of DBZ 
+    <br> <a href="file:///D:/Man%20of%20Steel%20(2013)/index.html" target="_main"><img src="https://seeklogo.com/images/D/Dragon_Ball_Z-logo-0C7B78BE7E-seeklogo.com.png" alt="This is logo of DBZ" height="100"></a>
+    <div>hope you will enjoy our website, never give up is all our moto</div>
+    <span>Thank You </span>
+    <br><a href="https://www.youtube.com/watch?v=Qzc_aX8c8g4&list=RDQzc_aX8c8g4&start_radio" target="_main"><img src="download (1).jpeg" alt="sahsa Alex"></a>
+<br> My Top 05 Best song that you must listend            
+<p><b>Dusk Till Dawn</b></p>
+<br><a href="https://www.youtube.com/watch?v=tt2k8PGm-TI&list=RDQzc_aX8c8g4&index=6" target="_main"><img src="zaynmalik.jfif" alt="Zayn malik"></a>
+<p><b>At My Worst</b></p>
+<a href="https://www.youtube.com/watch?v=8CEJoCr_9UI" target="_main"><img src="At.jfif" alt="At my Worst"></a>
+
+    </main>
+    <footer>contact <br>Email id : subhashamrit401@gmail.com</footer>
+
+</body>
+</html>
